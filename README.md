@@ -11,6 +11,8 @@
 <br>
 <br>
 
+## 邀请码：YV67623
+
 ```
 
 中文 邀请码：YV67623
@@ -42,6 +44,7 @@
 <br>
 <br>
 
+## Invitation code：YV67623
 
 ```
 
@@ -75,6 +78,7 @@ Please allow some time for Lantern to complete configurations if installing it f
 <br>
 <br>
 
+## Код приглашения：YV67623
 
 ```
 
@@ -109,10 +113,11 @@ Please allow some time for Lantern to complete configurations if installing it f
 
 
 <div dir="rtl", style="text-align: right">
+  ## شفرة الدعوة：YV67623
 
 ```
 
-شفرة الدعوة فارسی YV67623
+ فارسی
 
 ```
 
