@@ -7,7 +7,7 @@
 <br>
 <br>
   
-![cover page](cover_page.png)
+![cover page](https://raw.githubusercontent.com/getlantern/lantern/devel/cover_page.png)
 <br>
 <br>
 
